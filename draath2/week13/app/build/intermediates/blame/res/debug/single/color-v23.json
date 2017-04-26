@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/devikaraathor/.android/build-cache/fd9fef86290d017838a8582e9d8c9c9c4f4165bc/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/devikaraathor/.android/build-cache/5b2ebfd8db8913be5df2f66369cfa2ac00283149/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/devikaraathor/.android/build-cache/fd9fef86290d017838a8582e9d8c9c9c4f4165bc/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/devikaraathor/.android/build-cache/fd9fef86290d017838a8582e9d8c9c9c4f4165bc/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/devikaraathor/.android/build-cache/fd9fef86290d017838a8582e9d8c9c9c4f4165bc/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/devikaraathor/.android/build-cache/fd9fef86290d017838a8582e9d8c9c9c4f4165bc/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/devikaraathor/.android/build-cache/fd9fef86290d017838a8582e9d8c9c9c4f4165bc/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/devikaraathor/.android/build-cache/fd9fef86290d017838a8582e9d8c9c9c4f4165bc/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/devikaraathor/.android/build-cache/fd9fef86290d017838a8582e9d8c9c9c4f4165bc/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/devikaraathor/.android/build-cache/fd9fef86290d017838a8582e9d8c9c9c4f4165bc/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/devikaraathor/.android/build-cache/fd9fef86290d017838a8582e9d8c9c9c4f4165bc/output/res/color-v23/abc_tint_default.xml"
+    }
+]
