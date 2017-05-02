@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d170b4d07b053cf550e43c917c592fbae2de80ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9602b26c8fbcb6b5b35b8a01f8d84d8c3635274">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f0f6f479f5e0bfbd7f9125253304ad9a9656e31/classes.dex" />
+    </item>
+
+</items>
