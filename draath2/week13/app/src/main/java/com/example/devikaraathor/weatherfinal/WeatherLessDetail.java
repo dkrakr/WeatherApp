@@ -47,7 +47,6 @@ public class WeatherLessDetail extends AppCompatActivity {
     public static final String c2 = "CITY";
 
     /**
-     *
      * @param city list of 1 to 4 cities separated by commas without spaces
      * @return arraylist of Strings of the cities, with each city in its own cell
      */
@@ -217,7 +216,7 @@ public class WeatherLessDetail extends AppCompatActivity {
                     icon4.setVisibility(View.VISIBLE);
                     more4.setVisibility(View.VISIBLE);
                 }
-                if ((makeArray(city).size()) > 4){
+                if ((makeArray(city).size()) > 4) {
                     Toast.makeText(getApplicationContext(), "Please enter only up to 4 cities!", Toast.LENGTH_LONG).show();
                 }
 

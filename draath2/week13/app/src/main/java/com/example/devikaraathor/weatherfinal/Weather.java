@@ -29,7 +29,6 @@ public class Weather extends AppCompatActivity {
         getSupportActionBar().hide();
         setContentView(R.layout.activity_weather);
 
-
         //get font and icons from website
         weatherFont = Typeface.createFromAsset(getApplicationContext().getAssets(), "fonts/weathericons-regular-webfont.ttf");
 
@@ -61,7 +60,6 @@ public class Weather extends AppCompatActivity {
         //get city name from WeatherLessDetail class
         Intent intent = getIntent();
         asyncTask.execute(intent.getStringExtra(WeatherLessDetail.c2));
-
 
     }
 }

@@ -6,23 +6,25 @@ package com.example.devikaraathor.weatherfinal;
 
 import org.junit.Test;
 
-import static com.example.devikaraathor.weatherfinal.Function.setWeatherIcon;
 import static org.junit.Assert.*;
 
 /**
  * Created by devikaraathor on 5/2/17.
  */
 public class FunctionTest {
+
+    private static final String URL = "http://api.openweathermap.org/data/2.5/weather?q=%s";
+    private static final String API = "030dbebaadd41cb5b7fc0d21c37a713e";
+    Function func = new Function();
+
     @Test
     public void setWeatherIconTest() throws Exception {
-        String icon = "";
-        icon = setWeatherIcon(800, 3l, 1493748916500l);
-        assertEquals(icon,"&#xf02e;");
+        assertEquals("&#xf02e;", func.setWeatherIcon(800, 3l, 1493748916500l));
     }
 
     @Test
     public void getWeatherJSON() throws Exception {
-        assertEquals(0,0);
+        assertEquals(null, func.getWeatherJSON("alsjfdlajdf"));
     }
 
 }
