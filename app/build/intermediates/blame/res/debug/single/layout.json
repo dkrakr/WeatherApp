@@ -24,12 +24,12 @@
         "source": "/Users/devikaraathor/.android/build-cache/fd9fef86290d017838a8582e9d8c9c9c4f4165bc/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/Users/devikaraathor/.android/build-cache/5b2ebfd8db8913be5df2f66369cfa2ac00283149/output/res/layout/design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
         "source": "/Users/devikaraathor/.android/build-cache/5b2ebfd8db8913be5df2f66369cfa2ac00283149/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/devikaraathor/.android/build-cache/5b2ebfd8db8913be5df2f66369cfa2ac00283149/output/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
