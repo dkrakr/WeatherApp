@@ -3,6 +3,15 @@ package com.example.devikaraathor.weatherfinal;
  * @author draath2
  */
 
+/*
+ *SOURCES FOR WHOLE PROJECT
+ * https://www.youtube.com/watch?v=QNb_3QKSmMk
+ * http://androstock.com/tutorials/create-a-weather-app-on-android-android-studio.html
+ * https://github.com/miskoajkula/Gps_location/blob/master/app/src/main/java/testing/gps_location/MainActivity.java
+ * http://stackoverflow.com/questions/20159969/how-to-make-a-textview-invisible
+ * http://openweathermap.org/
+ */
+
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
