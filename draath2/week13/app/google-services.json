@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482128454722",
+    "firebase_url": "https://weatherfinal-20561.firebaseio.com",
+    "project_id": "weatherfinal-20561",
+    "storage_bucket": "weatherfinal-20561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482128454722:android:a5bc1f64e1d77126",
+        "android_client_info": {
+          "package_name": "com.example.devikaraathor.weatherfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482128454722-jatv5hk6f6nt7334d5atin8tiv9nq87s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.devikaraathor.weatherfinal",
+            "certificate_hash": "5a01e0effdad1682a634e34be67d287b914474d6"
+          }
+        },
+        {
+          "client_id": "482128454722-c1ig1u3fv0ma2hvq79vvgi341cb47hto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7kJJdSCHAnPhC05JHz8pxoxMRu62NwdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482128454722-c1ig1u3fv0ma2hvq79vvgi341cb47hto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
