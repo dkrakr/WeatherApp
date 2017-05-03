@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/2f2bac00df0465ac8a3d081bc9a0a2ab387a704f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce7526ed19fc1d2de809fa46cda080cdad1ddce7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_b9dcf0044e69a17c4172a3d702dffd3a9fa0d049/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/07f7195f205654a3c34368eb8ce1a94c7f3f73ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_836436acc7729b9576b37134036828c44fba9d64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9602b26c8fbcb6b5b35b8a01f8d84d8c3635274">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f0f6f479f5e0bfbd7f9125253304ad9a9656e31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/727fe537e5258dc1a2c0047f89167627ffe03225/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92a92f5488255e60911cfff843de2854ee5886d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/0a3cf0117d90221cb656dd29c75f416abd4abeb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d749274f3fc4efaf12f81142b41a52a8604f265d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/ed1c45ebdea21e9747dfa329b07b1d79505c8530/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bee1c85294ffe5c751ddf7e98a3436326ce31f01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/c1b148d532e8822c8b09c2a33f881cd4eec0bed0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a04f625942902dd8308ba2d2e4c5993990ae9099/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d170b4d07b053cf550e43c917c592fbae2de80ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/ca7d422f5b59f3771f8f680f0756bf5e168be6aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bb41a287b1daa2054b5a633e6cbc652a900d969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ed600f592a5c5344b09f20615b0a521259fb4ef">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f0f6f479f5e0bfbd7f9125253304ad9a9656e31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/82342d4fddfbca7e6a149d041b27a6c83b53f826/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_28412b5710481f7c43662f2db4afe30e5f0f18f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/905e53c1ed78035a6dc7b08b21ce72cc04f71c3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_784cb486e24c8aebe448163df622054aa5f893d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/30e0f49d271ef49a16c8c02d440220cedeecd7d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebf23049f397dd1a2cde6359c9c86be469b1afbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/20073f4b57207e6876299d6b25071dc20e4c04e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffdb7109456522fbad3715491177f2f325490a13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/4b24111b8ac4150c8122e29a72f12c5f7bbdcf02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3085b5ce7cf9eaa601c6bb9505bce92564c6c732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/ef13edc3e47063ce1e818349dcd29d6dfc2d1ddc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b731366643cd4f06e33cd5b7416ee5ee472ddf0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/0d4add2da5f525718b51b0e9282e8121e71ddc87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69e4de5c732192be58617dab04f442c0c6a70081/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d170b4d07b053cf550e43c917c592fbae2de80ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/2c8f388f6450f23172239ddcb06e73aa8c0c4b7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22b3c7e78df1540cdbeed9028dbd402b64c34bda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/a24a6f85ffb9e4d90ba3afecd663fef8db502e07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41ca95a0d76665f96d743b0a5fb80e0d376c4092/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/fd9fef86290d017838a8582e9d8c9c9c4f4165bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4530d1d35f093b3e5649723af59e4f63b4a9607e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/5513b70c1aa8508e27d7a214ba0889812a97ecc9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22213b204da65b92e9bfdb8e397ead5b5cc6cfa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_dafd1d5581977c488e10264d12068132d7a4cd28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/a5ad7f0e815707eea7a03faaf5881816a185a5f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc4c3c077e8f4cd6f67512c7ead17760ac398c02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/8f4f11269b6268314f220d9ce74139b78027408e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cbf93ee72ff26a03a6c960a910f11bff8c345cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/75b1c93a6a08ed06794e26fc67ad5464c48adfd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8af3246f43eb9022715d018b4490930d9623c237/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devikaraathor/.android/build-cache/7270c9777cf24ea6636ae464e40acbdcbdcfc003/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/devikaraathor/Documents/WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_819c15676f5f24f2b8e88607020f75cad6237436/classes.dex" />
+    </item>
+
+</items>
