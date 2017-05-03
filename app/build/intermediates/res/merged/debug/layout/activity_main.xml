@@ -69,7 +69,7 @@
             android:layout_marginLeft="130dp"
             android:text="Login"
             android:textColor="#FFFFFF" />
-        
+
     </LinearLayout>
 
 </RelativeLayout>
